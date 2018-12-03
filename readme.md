@@ -1,2 +1,2 @@
 #Description
-A React realization of a simple path-finding algorithm!
+This is a React realization of a simple path-finding algorithm.
